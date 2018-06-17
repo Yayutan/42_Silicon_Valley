@@ -1,0 +1,36 @@
+42 header
+cont c cont h (???)
+
+quit
+cont x cont c
+
+save
+cont x cont s
+
+suspend
+cont z
+
+back from suspend
+fg
+
+move to line front/back
+cont e/a
+
+word search
+cont s + <word>
+
+new file 
+cont x cont f
+
+move between buffers
+cont x <L/R>
+
+split screen 
+cont x 2/3
+
+move between screens
+cont x o
+
+close screen 
+cont x 0
+

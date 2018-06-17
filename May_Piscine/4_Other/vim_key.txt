@@ -1,0 +1,14 @@
+split window 
+:vs
+:sp
+
+switch between windows
+cont w
+
+switch buffer
+:e <name>
+
+
+header
+:Std
+
