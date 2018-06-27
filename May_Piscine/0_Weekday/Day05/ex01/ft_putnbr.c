@@ -14,10 +14,10 @@ int		ft_putchar(char c);
 
 void	ft_putstr(char *str)
 {
-	if (str[0] != '\0')
+	while (str[0] != '\0')
 	{
 		ft_putchar(str[0]);
-		ft_putstr(str + 1);
+		str++;
 	}
 }
 
@@ -40,6 +40,11 @@ void	ft_putnbr(int nb)
 		{
 			ft_putchar('-');
 			nb *= -1;
+		}
+		if (nb >= 1000000000)
+		{
+			ft_putchar((nb / 1000000000) + 48);
+                        nb = nb % 1000000000;
 		}
 		divisor = find_divisor(nb);
 		while (divisor >= 1)
