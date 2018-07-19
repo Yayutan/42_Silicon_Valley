@@ -1,0 +1,73 @@
+memset
+bzero
+memcpy
+memccpy
+memmove
+memchr
+memcmp
+strlen - Code done, need testing
+strdup
+strcpy
+strncpy
+strcat
+strncat
+strlcat
+strchr
+strrchr
+strstr
+strnstr
+strcmp
+strncmp
+atoi
+isalpha
+isdigit
+isalnum
+isascii
+isprint
+toupper
+tolower
+-----<Part II>-----
+memalloc - Code done, need testing
+memdel - Code done, need testing
+strnew - Code done, need testing
+strdel - Code done, need testing
+strclr - Code done, need testing
+striter - Code done, need testing
+striteri - Code done, need testing
+strmap - Code done, need testing
+strmapi - Code done, need testing
+strequ - Code done, need testing
+strnequ - Code done, need testing
+strsub - Code done, need testing
+strjoin - Code done, need testing 
+strtrim - Code done, need testing
+strsplit
+itoa
+putchar - Code done, need testing
+putstr - Code done, need testing
+putendl - Code done, need testing
+putnbr - Code done, need testing
+putchar_fd
+putstr_fd
+putendl_fd
+putnbr_fd
+
+-----<bonus>----
+lists....
+
+
+
+
+....
+....
+....
+....
+
+....
+....
+....
+....
+
+
+
+
