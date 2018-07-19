@@ -1,0 +1,1 @@
+sudo du -s $1/* | sort -g | sed 's/[0-9]*[[:space:]]*//g'

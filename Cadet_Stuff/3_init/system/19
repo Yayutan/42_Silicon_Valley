@@ -1,0 +1,3 @@
+sudo /sbin/iptables -A INPUT -j REJECT
+# http://s2.naes.tn.edu.tw/~kv/iptables.htm
+# https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands

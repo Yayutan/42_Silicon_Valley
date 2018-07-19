@@ -1,0 +1,2 @@
+/sbin/fdisk -l
+# examples: https://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/

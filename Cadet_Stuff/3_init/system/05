@@ -1,0 +1,7 @@
+sudo systemctl status ssh
+# found in: https://linuxhint.com/enable-ssh-server-debian/
+# in order to be able to use ssh, run the following commands first:
+# sudo apt-get purge openssh-server
+# sudo apt-get install openssh-server
+# referring to article here: https://askubuntu.com/questions/265982/unable-to-start-sshd
+# rsa keys: https://www.debian.org/devel/passwordlessssh 
