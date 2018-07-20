@@ -1,1 +1,1 @@
-ifconfig -l
+echo 'ifconfig -l'

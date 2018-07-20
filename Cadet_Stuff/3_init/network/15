@@ -1,1 +1,1 @@
-/private/etc/hosts
+echo '/private/etc/hosts'

@@ -1,3 +1,2 @@
-ping -c4 10.51.1.253
+echo 'ping 10.51.1.253'
 
-# unreachable at home, try again in 42

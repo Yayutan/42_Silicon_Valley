@@ -1,0 +1,1 @@
+echo -e 'Change/Add\n46.19.122.85 intra.42.fr\ninto /etc/hosts'

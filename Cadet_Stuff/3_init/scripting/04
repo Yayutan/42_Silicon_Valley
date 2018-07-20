@@ -1,0 +1,6 @@
+echo "md5sum /etc/crontab > curr.hash" > task
+echo "if [-f ! backup.hash ]; then cp curr.hash backup.hash fi"
+echo "if [ $(cat curr.hash) != $(cat backup.hash) ]; then mail -s 'file changed' root fi" >> task
+echo "mv curr.hash backup.hash" >> task
+chmod +x task
+echo "0 0 * * * task" >> /var/spool/cron/crontabs/root

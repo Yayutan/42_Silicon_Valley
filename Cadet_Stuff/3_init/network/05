@@ -1,1 +1,1 @@
-nslookup slash16.org
+echo 'nslookup slash16.org'

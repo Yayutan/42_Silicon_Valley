@@ -1,0 +1,4 @@
+echo "sudo apt-get update >> /var/log/update_script.log" > task
+echo "sudo apt-get upgrade >> /var/log/update_script.log" >> task
+chmod +x task
+echo "0 4 * * 2 task" >> /var/spool/cron/crontabs/root
