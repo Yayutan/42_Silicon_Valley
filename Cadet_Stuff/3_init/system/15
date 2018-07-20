@@ -1,2 +1,1 @@
-kill
-# this command requires argument(pid), but i am not sure how to specify all background jobs...
+echo 'kill <pid> or pkill <process_nm>'

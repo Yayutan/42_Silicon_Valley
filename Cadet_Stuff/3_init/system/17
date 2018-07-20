@@ -1,2 +1,1 @@
-sudo /sbin/iptables -L
-# https://wiki.debian.org/DebianFirewall
+echo 'sudo /sbin/iptables -L'

@@ -1,0 +1,72 @@
+Network
+01)
+02)
+03)
+04)
+05)
+06)
+07)
+08)
+09)
+10)
+11)
+12)
+13)
+14)
+15)
+16)
+17)
+18)
+19)
+
+System
+01)
+02)
+03)
+04)
+05)
+06)
+07)
+08)
+09)
+10)
+11)
+12)
+13)
+14)
+15)
+16)
+17)
+18)
+19)
+
+Scripting
+01) https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system
+02) https://www.cyberciti.biz/faq/debian-change-hostname-permanently/
+03) https://www.cyberciti.biz/faq/debian-change-hostname-permanently/ 
+04) https://unix.stackexchange.com/questions/110269/the-amount-of-time-since-the-system-was-last-booted
+05)
+    https://linuxhint.com/enable-ssh-server-debian/
+    https://askubuntu.com/questions/265982/unable-to-start-sshd
+    https://www.debian.org/devel/passwordlessssh 
+06) https://linuxhint.com/enable-ssh-server-debian/
+07) https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
+08) https://www.ssh.com/ssh/host-key
+09) https://serverfault.com/questions/360296/see-all-logged-in-users-on-debian-server
+10) https://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/
+11) https://www.linux.com/blog/linux-101-check-disk-space-command
+12)
+    https://www.cyberciti.biz/faq/linux-check-disk-space-command/
+    https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
+13) https://www.cyberciti.biz/faq/show-all-running-processes-in-linux/
+14)
+15) https://unix.stackexchange.com/questions/104821/how-to-terminate-a-background-process
+16) https://www.linode.com/docs/tools-reference/tools/schedule-tasks-with-cron/
+17)
+    https://wiki.debian.org/DebianFirewall
+    https://www.digitalocean.com/community/tutorials/how-to-list-and-delete-iptables-firewall-rules
+18) https://serverfault.com/questions/163111/allow-traffic-to-from-specific-ip-with-iptables 
+19) 
+    https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+    https://serverfault.com/questions/157375/reject-vs-drop-when-using-iptables
+    https://www.cyberciti.biz/faq/how-do-i-block-an-ip-on-my-linux-server/

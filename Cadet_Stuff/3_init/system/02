@@ -1,1 +1,1 @@
-hostname new_name
+echo 'hostname <new_name>'

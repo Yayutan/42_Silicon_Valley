@@ -1,2 +1,1 @@
-sudo du -s /var/*
-# https://unix.stackexchange.com/questions/185764/how-do-i-get-the-size-of-a-directory-on-the-command-line
+echo 'sudo du -h -s /var/*'

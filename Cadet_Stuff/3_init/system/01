@@ -1,2 +1,1 @@
-cat /etc/issue
-# found in https://linuxconfig.org/check-what-debian-version-you-are-running-on-your-linux-system
+echo '/etc/debian_version'

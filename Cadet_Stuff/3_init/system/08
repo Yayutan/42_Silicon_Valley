@@ -1,1 +1,1 @@
-~/.ssh/id_rsa
+echo '/etc/ssh'

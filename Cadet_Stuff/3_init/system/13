@@ -1,1 +1,1 @@
-ps
+echo 'ps aux'
